@@ -2,7 +2,7 @@
 
 A full-stack weather forecast application built with ASP.NET Core 9 and React + TypeScript that provides current weather and forecast data using the OpenWeatherMap API.
 
-**Production URL:** https://weatherforecast.paweldywandev.com/
+**Production URL:** https://weatherforecast.paweldywan.com/
 
 **Local Development URL:** https://localhost:7176
 
@@ -109,7 +109,7 @@ React + TypeScript frontend built with Vite:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/paweldywandev/WeatherForecast.git
+git clone https://github.com//WeatherForecast.git
 cd WeatherForecast
 ```
 
@@ -345,7 +345,7 @@ This project is available as open source. Please check with the repository owner
 **Pawel Dywan**
 
 - GitHub: [@paweldywandev](https://github.com/paweldywandev)
-- Website: https://paweldywandev.com/
+- Website: https://paweldywan.com/
 
 ## Acknowledgments
 
